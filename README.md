@@ -35,4 +35,4 @@ Meu GitHub é onde documento esse processo: **estudos, experimentos, aprendizado
 
 ---
 
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/io-luccas)
+🔗 www.linkedin.com/in/io-luccas
