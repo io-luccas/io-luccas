@@ -2,27 +2,37 @@
 
 > 📊 Dados → Informação → Insights
 
-Estou construindo meu caminho na área de dados, explorando diferentes
-formas de transformar dados brutos em análises, visualizações e insights.
+Estou construindo meu caminho na área de **Dados**, explorando diferentes formas de transformar dados brutos em análises, visualizações e insights.
+Meu GitHub é onde documento esse processo: **estudos, experimentos, aprendizados e algumas coisas que deram errado no caminho.**
 
-Meu GitHub é onde documento esse processo: projetos, estudos,
-experimentos e algumas coisas que deram errado no caminho.
+---
+
+## 🎯 Sobre mim
+📊 **Área de interesse:** Análise de Dados e Business Intelligence
+
+📈 **Foco atual:** Power BI, SQL e análise de dados
+
+🐍 **Em desenvolvimento:** Python e ferramentas para análise de dados
 
 ---
 
 ## 🧰 Minha stack
 
-**🐍 Linguagens**  
+### 🐍 Linguagens
 `Python` `SQL`
 
-**📊 Dados**  
+### 📊 Dados
 `Pandas` `NumPy`
 
-**📈 Visualização**  
+### 📈 Visualização
 `Power BI`
 
-**🗄️ Banco de dados**  
+### 🗄️ Banco de dados
 `PostgreSQL` `MySQL`
 
-**🔧 Ferramentas**  
+### 🔧 Ferramentas
 `Git` `GitHub` `Jupyter`
+
+---
+
+🔗 **LinkedIn:** [www.linkedin.com/in/io-luccas](#)
