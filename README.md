@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucc.
 
-<!--
-**io-luccas/io-luccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 📊 Dados → Informação → Insights
 
-Here are some ideas to get you started:
+Estou construindo meu caminho na área de dados, explorando diferentes
+formas de transformar dados brutos em análises, visualizações e insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu GitHub é onde documento esse processo: projetos, estudos,
+experimentos e algumas coisas que deram errado no caminho.
+
+---
+
+## 🧰 Minha stack
+
+**🐍 Linguagens**  
+`Python` `SQL`
+
+**📊 Dados**  
+`Pandas` `NumPy`
+
+**📈 Visualização**  
+`Power BI`
+
+**🗄️ Banco de dados**  
+`PostgreSQL` `MySQL`
+
+**🔧 Ferramentas**  
+`Git` `GitHub` `Jupyter`
